@@ -14,56 +14,56 @@ Step 4: select reconstruction algorithm and optimization algorithm
 Step 5: save the results
 
 ## Reconstruction algorithm part
-###1.Nor
+### 1.Nor
 
-###2.Var
+### 2.Var
 
-###3.FVar
+### 3.FVar
 
-###4.Mean
+### 4.Mean
 
-###5.CAE
+### 5.CAE
 
-###6.Cor
+### 6.Cor
 
-###7.MWTA
+### 7.MWTA
 
-###8.wM
+### 8.wM
 
-###9.MW
+### 9.MW
 
-###10.Fourier
+### 10.Fourier
 
-###11.Hist
+### 11.Hist
 
-###12.EPI
+### 12.EPI
 
-###13.FDL
+### 13.FDL
 
-###14.defocus
+### 14.defocus
 
-###15.Adaptive region matching for scene depth reconstruction from light field data
+### 15.Adaptive region matching for scene depth reconstruction from light field data
 
-###16.Depth reconstruction from light field based on monomer subset data
+### 16.Depth reconstruction from light field based on monomer subset data
 
 
 ## Optimization algorithm part
 
-###Optimization algorithm 1
+### Optimization algorithm 1
 
-###Optimization algorithm 2
+### Optimization algorithm 2
 
-###Optimization algorithm 3
+### Optimization algorithm 3
 
-###Optimization algorithm 4
+### Optimization algorithm 4
 
-###Optimization algorithm 5
+### Optimization algorithm 5
 
-###Optimization algorithm 6
+### Optimization algorithm 6
 
-###Optimization algorithm 7
+### Optimization algorithm 7
 
-###Optimization algorithm 8
+### Optimization algorithm 8
 
 
 CONTACT:
