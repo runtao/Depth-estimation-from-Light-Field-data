@@ -28,7 +28,8 @@ Step 5: save the results
 13.FDL
 14.defocus
 15.自适应
-16.颜色空间
+16.Depth reconstruction from light field based on monomer subset data
+
 
 ## Optimization algorithm part
 
