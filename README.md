@@ -1,6 +1,9 @@
 # tzslg--Application-instruction-of-depth-reconstruction-algorithm
 Depth-reconstruction from Light Field Data
 
+### CONTACT:
+
+Ligen(ligenshi@88.com)
 
 # Application instruction of depth reconstruction algorithm v.1.0
 
@@ -70,10 +73,9 @@ Step 5: save the results
 ### Optimization algorithm 8
 
 
-CONTACT:
-Ligen(ligenshi@88.com)
 
-REFERENCES:
+### REFERENCES:
+
 [1]	Wanner S, Straehle C, Goldluecke B. Globally Consistent Multi-label Assignment on the Ray Space of 4D Light Fields[C]// Computer Vision & Pattern Recognition. IEEE, 2013. 
 
 [2]	Tao M W, Hadap S, Malik J, et al. Depth from Combining Defocus and Correspondence Using Light-Field Cameras[C]// Proceedings of the 2013 IEEE International Conference on Computer Vision. IEEE, 2013.
