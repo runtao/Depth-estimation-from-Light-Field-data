@@ -4,7 +4,11 @@ Depth-reconstruction from Light Field Data
 
 Ligen(ligenshi@88.com)
 
-# Application instruction of depth reconstruction algorithm v.1.0
+# Application instruction of depth reconstruction algorithm v.2.0
+
+项目简介：
+光场数据包含场景的多个视图，视点之间的关系是通过视差来耦合的，该项目利用四维光场的空-角关系重建场景的视差。根据光场数据可视化的形式可划分三类，基于子孔径图像形式的光场数据场景深度重建，基于宏像素形式的光场数据场景深度重建，基于Epi图像形式的光场数据场景深度重建。根据数字重聚焦生成堆栈图像序列数据，对聚焦清晰程度的评估进行场景深度重建可划分为一类，基于堆栈数据的场景深度重建。通过搭建神经网络来代替传统的数学建模，以学习的方式获取深度图单独划分了一类，基于深度学习的场景深度重建。
+该项目不涉及深度学习部分，其他类别均给出巧妙的算法给出光场数据深度的精准估计。
 
 ## How to use：
 (This software is tested using Matlab 2019b with Windows10 64bit environment)
@@ -20,6 +24,9 @@ Step 4: select reconstruction algorithm and optimization algorithm
 Step 5: save the results
 
 ## Reconstruction algorithm part
+
+相关算法描述，待补充（毕业后补充）。
+
 ### 1.Nor
 
 ### 2.Var
@@ -70,7 +77,6 @@ Step 5: save the results
 ### Optimization algorithm 7
 
 ### Optimization algorithm 8
-
 
 
 ### REFERENCES:
