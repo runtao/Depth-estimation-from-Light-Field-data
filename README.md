@@ -20,7 +20,7 @@ Step 4: select reconstruction algorithm and optimization algorithm/选择重建�
 
 Step 5: select optimization algorithm/选择优化的算法
 
-Step 6: save the results
+Step 6: save the results/保存视差重建的结果
 
 ## Reconstruction algorithm part
 
