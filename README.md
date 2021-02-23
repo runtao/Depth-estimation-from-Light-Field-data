@@ -15,6 +15,7 @@ Step 1: initialization/初始化
 Step 2: related parameter setting/相关参数设置
 
 Step 3: load data/加载光场数据
+光场数据的形式可以是子孔径图像或全光图像。
 
 Step 4: select reconstruction algorithm and optimization algorithm/选择重建的算法
 
