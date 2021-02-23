@@ -11,15 +11,17 @@ C++、python版本稍后奉上！
 ## How to use：
 (This software is tested using Matlab 2019b with Windows10 64bit environment)
 
-Step 1: initialization
+Step 1: initialization/初始化
 
-Step 2: related parameter setting
+Step 2: related parameter setting/相关参数设置
 
-Step 3: load data
+Step 3: load data/加载光场数据
 
-Step 4: select reconstruction algorithm and optimization algorithm
+Step 4: select reconstruction algorithm and optimization algorithm/选择重建的算法
 
-Step 5: save the results
+Step 5: select optimization algorithm/选择优化的算法
+
+Step 6: save the results
 
 ## Reconstruction algorithm part
 
@@ -56,25 +58,6 @@ Step 5: save the results
 ### 15.Adaptive region matching for scene depth reconstruction from light field data
 
 ### 16.Depth reconstruction from light field based on monomer subset data
-
-
-## Optimization algorithm part
-
-### Optimization algorithm 1
-
-### Optimization algorithm 2
-
-### Optimization algorithm 3
-
-### Optimization algorithm 4
-
-### Optimization algorithm 5
-
-### Optimization algorithm 6
-
-### Optimization algorithm 7
-
-### Optimization algorithm 8
 
 
 ### REFERENCES:
