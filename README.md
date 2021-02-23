@@ -87,9 +87,9 @@ kalman修正搜索点算法
 
 [11]	Zhu H, Wang Q, Yu J . Occlusion-Model Guided Anti-Occlusion Depth Estimation in Light Field[J]. IEEE Journal of Selected Topics in Signal Processing, 2016, PP(99):1-1.
 
-[12] Dense depth reconstruction method based on YCbCr color space light field data [EN]
+[12] Dense depth reconstruction method based on YCbCr color space light field data [EN].
 
-[13] Regional self-adaptive matching light field data depth reconstruction method [EN]
+[13] Regional self-adaptive matching light field data depth reconstruction method [EN].
 
 
 ### CONTACT:
