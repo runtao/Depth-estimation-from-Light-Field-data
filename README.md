@@ -7,6 +7,9 @@ Depth-reconstruction from Light Field Data
 
 C++、python版本稍后奉上！
 
+4D光场数据场景深度提取算法（自适应）：
+https://github.com/tzslg/Depth-Reconstruction-based-on-4D-light-field-data
+
 ## How to use：
 (This software is tested using Matlab 2019b with Windows10 64bit environment)
 
